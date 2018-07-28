@@ -1,0 +1,22 @@
+The most popular or bought items are in order:
+	Oathbreaker, Last Hope of the Breaking Storm		12
+	Fiery Glass Crusader								9
+	Extraction, Quickblade of Trembling Hands			9
+	Nirvana												9
+	Pursuit, Cudgel of Necromancy						8
+
+The most profitable items are in order:
+	Oathbreaker, Last Hope of the Breaking Storm		$50.76
+	Nirvana												$44.10
+	Fiery Glass Crusader								$41.22
+	Final Critic											$39.04
+	Singed Scalpel										$34.80
+	
+The users that spent the most are in order:
+	Lisosia93			$18.96
+	Idastidru52			$15.45
+	Chamjask73		$13.83
+	Iral74				$13.62
+	Iskadarya95		$13.10
+	
+From this data, we also determined that the age group that spends the most by far are the 20-24 year olds by more than 250% over the next highest spending age group, the 15-19 year olds. On the other hand, we must remember that the 20-24 and 15-19 age groups make up 63.4% and 23.6% of the player base respectively. Within the in game purchases, women spent $0.18 more on average than men for individual purchases.
